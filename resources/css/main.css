@@ -11,6 +11,8 @@
     text-align: center;
     justify-content: center;
     background-color: aliceblue;
+    resize: both;
+    overflow: auto;
 }
 .Logo img {
     float: left;
