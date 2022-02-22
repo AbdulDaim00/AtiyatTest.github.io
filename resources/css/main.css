@@ -13,6 +13,7 @@
     background-color: aliceblue;
     resize: both;
     overflow: auto;
+    position: relative;
 }
 .Logo img {
     float: left;
