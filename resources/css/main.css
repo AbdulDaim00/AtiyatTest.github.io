@@ -1,0 +1,37 @@
+.MembersContainer{
+    display: flex;
+    flex-direction: row;
+    height: auto;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+.name1{
+    font-family: sans-serif;
+    width: 300px;
+    color: aliceblue;
+    text-shadow: 2px 1px black;
+    margin: 5px;
+    text-align: center;
+    background-color: #2d4a1a;
+}
+
+.name2{
+    font-family: sans-serif;
+    width: 300px;
+    color: aliceblue;
+    text-shadow: 2px 1px black;
+    margin: 5px;
+    text-align: center;
+    background-color: #2d4a1a;
+}
+#PM{
+    font-family: serif;
+    font-size: 50px; 
+    color: aliceblue;
+    text-align: center;
+}
+    
+
+    
+    
